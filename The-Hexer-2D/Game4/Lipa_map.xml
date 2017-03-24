@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<ArrayOfTile xmlns:xi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tile>
+    <Xpos>100</Xpos>
+    <YPos>100</YPos>
+    <ZPos>100</ZPos>
+    <TextureXPost>29</TextureXPost>
+    <TextureYPost>50</TextureYPost>
+    <TextureName>Overworld</TextureName>
+  </Tile>
+  <Tile>
+    <Xpos>18</Xpos>
+    <YPos>20</YPos>
+    <ZPos>1</ZPos>
+    <TextureXPost>50</TextureXPost>
+    <TextureYPost>30</TextureYPost>
+    <TextureName>Overworld</TextureName>
+  </Tile>
+  <Tile>
+    <Xpos>3</Xpos>
+    <YPos>1</YPos>
+    <ZPos></ZPos>
+    <TextureXPost>10</TextureXPost>
+    <TextureYPost>13</TextureYPost>
+    <TextureName>Overworld</TextureName>
+  </Tile>
+</ArrayOfTile>
